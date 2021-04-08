@@ -1,4 +1,26 @@
 # HTMLexample2-List-
 
-This HTML example was created to show my ability to create lists. I created unordered (bulleted), order(numbered), and nested a list into a list. 
-The recipe was copied from Blue Apron. The dish is excellent and should be tried on a side note.
+Title: Lists 
+
+Project was created to show ability to makes lists
+
+Language
+Html
+
+Technologies 
+Vs Code
+
+Includes examples:
+
+*item 1
+*item 2
+*item 2a
+*item 2b
+1.item
+2.item
+1. itemA
+2. itemB
+
+
+Project is completed
+  
